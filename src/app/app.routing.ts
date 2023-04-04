@@ -74,6 +74,8 @@ export const appRoutes: Route[] = [
             {path: 'example', loadChildren: () => import('app/modules/admin/example/example.module').then(m => m.ExampleModule)},
             {path: 'apps', children: [
                 {path: 'scrumboard', loadChildren: () => import('app/modules/admin/apps/scrumboard/scrumboard.module').then(m => m.ScrumboardModule)},
+                {path: 'bookings', loadChildren: () => import('app/modules/admin/apps/bookings/bookings.module').then(m => m.BookingsModule)},
+                {path: 'contacts', loadChildren: () => import('app/modules/admin/apps/contacts/contacts.module').then(m => m.ContactsModule)},
             ]},            
         ]
     }

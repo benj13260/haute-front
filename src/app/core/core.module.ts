@@ -7,7 +7,7 @@ import { TranslocoCoreModule } from 'app/core/transloco/transloco.module';
     imports: [
         AuthModule,
         IconsModule,
-        TranslocoCoreModule
+        TranslocoCoreModule,
     ]
 })
 export class CoreModule

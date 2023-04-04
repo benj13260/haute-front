@@ -1,0 +1,213 @@
+<div class="flex flex-col w-full">
+
+    <!-- View mode -->
+    <ng-container *ngIf="!editMode">
+
+        <!-- Header -->
+        <div class="relative w-full h-40 sm:h-48 px-8 sm:px-12 bg-accent-100 dark:bg-accent-700">
+            <!-- Close button -->
+            <div class="flex items-center justify-end w-full max-w-3xl mx-auto pt-6">
+                <a mat-icon-button [matTooltip]="'Close'" [routerLink]="['../']">
+                    <mat-icon class="text-white" [svgIcon]="'heroicons_outline:x'"></mat-icon>
+                </a>
+            </div>
+        </div>
+
+        <!-- Booking -->
+        <div class="relative flex flex-col flex-auto items-center p-6 pt-0 sm:p-12 sm:pt-0">
+            <div class="w-full max-w-3xl">
+
+                <!-- Avatar and actions -->
+                <div class="flex flex-auto items-end -mt-16">
+                    <!-- Avatar 
+                    <div
+                        class="flex items-center justify-center w-32 h-32 rounded-full overflow-hidden ring-4 ring-bg-card">
+                        <img class="object-cover w-full h-full" *ngIf="booking.avatar" [src]="booking.avatar">
+                        <div class="flex items-center justify-center w-full h-full rounded overflow-hidden uppercase text-8xl font-bold leading-none bg-gray-200 text-gray-600 dark:bg-gray-700 dark:text-gray-200"
+                            *ngIf="!booking.avatar">
+                            {{booking.name.charAt(0)}}
+                        </div>
+                    </div>-->
+                    <!-- Actions -->
+                    <div class="flex items-center ml-auto mb-1">
+                        <button mat-stroked-button (click)="toggleEditMode(true)">
+                            <mat-icon class="icon-size-5" [svgIcon]="'heroicons_solid:pencil-alt'"></mat-icon>
+                            <span class="ml-2">Edit</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap items-center mt-2">
+                    <!-- Tag -->
+                    <div
+                        class="flex items-center justify-center py-1 px-3 mr-3 mb-3 rounded-full leading-normal text-gray-500 bg-gray-100 dark:text-gray-300 dark:bg-gray-700">
+                        <span class="text-sm font-medium whitespace-nowrap">{{booking.booking_transport_status}}</span>
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap items-center mt-2">
+                    <!-- Tag -->
+                    <div
+                        class="flex items-center justify-center py-1 px-3 mr-3 mb-3 rounded-full leading-normal text-gray-500 bg-gray-100 dark:text-gray-300 dark:bg-gray-700">
+                        <span class="text-sm font-medium whitespace-nowrap">{{booking.booking_payment_status}}</span>
+                    </div>
+                </div>
+
+                <div class="flex flex-col mt-4 pt-6 border-t space-y-2">
+
+                    <ng-container *ngIf="booking.dateFrom">
+                        <div class="px-2">Adults <b>{{booking.adults || 0}}</b>, Children <b>{{booking.children || 0}}</b></div>
+                        <div class="px-2">Pickup from: <b>{{getLocationName(booking.from)}}</b></div>
+                        <div class="px-2">Going to: <b>{{getLocationName(booking.to)}}</b></div>
+                        <div class="px-2">Flight arrives: <b>{{booking.dateFrom | date:'full'}}</b></div>
+                        <div class="px-2">Flight departs: <b>{{booking.dateTo | date:'full'}}</b></div>
+                    </ng-container>
+
+                    <!-- Notes -->
+                    <ng-container *ngIf="booking.notes">
+                        <div class="flex">
+                            <mat-icon [svgIcon]="'heroicons_outline:menu-alt-2'"></mat-icon>
+                            <div class="max-w-none ml-6 prose prose-sm" [innerHTML]="booking.notes"></div>
+                        </div>
+                    </ng-container>
+
+                </div>
+
+            </div>
+        </div>
+    </ng-container>
+
+    <!-- Edit mode -->
+    <ng-container *ngIf="editMode">
+
+        <!-- Header -->
+        <div class="relative w-full h-40 sm:h-48 px-8 sm:px-12 bg-accent-100 dark:bg-accent-700">
+            <!-- Close button -->
+            <div class="flex items-center justify-end w-full max-w-3xl mx-auto pt-6">
+                <a mat-icon-button [matTooltip]="'Close'" [routerLink]="['../']">
+                    <mat-icon class="text-white" [svgIcon]="'heroicons_outline:x'"></mat-icon>
+                </a>
+            </div>
+        </div>
+
+        <div class="relative flex flex-col flex-auto items-center px-6 sm:px-12">
+            <div class="w-full max-w-3xl">
+
+                <form [formGroup]="bookingForm">
+
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Search Contact" [formGroup]="selectedContact" [matAutocomplete]="auto"
+                          [formControl]="searchContactsCtrl" placeholder="Min 3 Characters Ex. Ant">
+                        <button *ngIf="selectedContact" matSuffix mat-icon-button aria-label="Clear" (click)="clearSelection()">
+                          <mat-icon>close</mat-icon>
+                        </button>
+                        <mat-autocomplete [panelWidth]="400" #auto="matAutocomplete" (optionSelected)="onSelected()"
+                          [displayWith]="displayWith">
+                          <mat-option *ngIf="isLoading" class="is-loading">Loading...</mat-option>
+                          <ng-container *ngIf="!isLoading">
+                            <mat-option *ngFor="let movie of filteredContacts" [value]="contact">
+                              <span><b>{{contact.name}}</b></span>
+                            </mat-option>
+                          </ng-container>
+                        </mat-autocomplete>
+                      </mat-form-field>
+
+
+
+                    <div class="mt-4">
+                        <mat-checkbox class="example-margin" [formControlName]="'roundTrip'"
+                            (click)="toggleRoundTrip()">Round
+                            trip</mat-checkbox>
+                    </div>
+
+                    <div class="flex">
+                        <mat-form-field class="w-1/2 p-2">
+                            <mat-label>Adults</mat-label>
+                            <input type="number" matInput [formControlName]="'adults'">
+                        </mat-form-field>
+                        <mat-form-field class="w-1/2 p-2">
+                            <mat-label>Children</mat-label>
+                            <input type="number" matInput [formControlName]="'children'">
+                        </mat-form-field>
+                    </div>
+
+                    <div class="">
+                        <mat-form-field class="w-full px-2 self-start">
+                            <mat-label>Pickup from</mat-label>
+                            <mat-select [formControlName]="'from'">
+                                <ng-container *ngFor="let location of locations">
+                                    <mat-option [value]="location.id">
+                                        {{location.name}}
+                                    </mat-option>
+                                </ng-container>
+                            </mat-select>
+                        </mat-form-field>
+                    </div>
+                    <div class="">
+                        <mat-form-field class="w-full px-2 self-start">
+                            <mat-label>Going to</mat-label>
+                            <mat-select [formControlName]="'from'">
+                                <ng-container *ngFor="let location of locations">
+                                    <mat-option [value]="location.id">
+                                        {{location.name}}
+                                    </mat-option>
+                                </ng-container>
+                            </mat-select>
+                        </mat-form-field>
+                    </div>
+                    <div class="">
+                        <!-- Date From -->
+                        <mat-form-field class="w-full px-2" [subscriptSizing]="'dynamic'">
+                            <mat-label>Flight arrives</mat-label>
+                            <input matInput [matDatepicker]="dateFrom" [formControlName]="'dateFrom'">
+                            <mat-datepicker-toggle matSuffix [for]="dateFrom">
+                            </mat-datepicker-toggle>
+                            <mat-datepicker #dateFrom></mat-datepicker>
+                        </mat-form-field>
+                    </div>
+                    <div #roundTripSection>
+                        <ng-container *ngIf="roundTrip">
+                            <div class="mt-2">
+                                <mat-form-field class="w-full px-2" [subscriptSizing]="'dynamic'">
+                                    <mat-label>Flight departs</mat-label>
+                                    <input matInput [matDatepicker]="dateTo" [formControlName]="'dateTo'">
+                                    <mat-datepicker-toggle matSuffix [for]="dateTo">
+                                    </mat-datepicker-toggle>
+                                    <mat-datepicker #dateTo></mat-datepicker>
+                                </mat-form-field>
+                            </div>
+                        </ng-container>
+                    </div>
+                    <!-- Notes -->
+                    <div class="mt-4 px-2">
+                        <mat-form-field class="w-full" [subscriptSizing]="'dynamic'">
+                            <mat-label>Notes</mat-label>
+                            <mat-icon matPrefix class="hidden sm:flex icon-size-5"
+                                [svgIcon]="'heroicons_solid:menu-alt-2'"></mat-icon>
+                            <textarea matInput [formControlName]="'notes'" [placeholder]="'Notes'" [rows]="5"
+                                [spellcheck]="false" cdkTextareaAutosize></textarea>
+                        </mat-form-field>
+                    </div>
+                    <!-- Actions -->
+                    <div
+                        class="flex items-center mt-10 -mx-6 sm:-mx-12 py-4 pr-4 pl-1 sm:pr-12 sm:pl-7 border-t bg-gray-50 dark:bg-transparent">
+                        <!-- Delete -->
+                        <button mat-button [color]="'warn'" [matTooltip]="'Delete'" (click)="deleteBooking()">
+                            Delete
+                        </button>
+                        <!-- Cancel -->
+                        <button clas s="ml-auto" mat-button [matTooltip]="'Cancel'" (click)="toggleEditMode(false)">
+                            Cancel
+                        </button>
+                        <!-- Save -->
+                        <button class="ml-2" mat-flat-button [color]="'primary'" [disabled]="bookingForm.invalid"
+                            [matTooltip]="'Save'" (click)="updateBooking()">
+                            Save
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </ng-container>
+</div>

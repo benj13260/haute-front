@@ -33,7 +33,7 @@ export const contacts = [
         address     : '279 Independence Avenue, Calvary, Guam, PO4127',
         notes       : '<p>Do incididunt cillum duis eu pariatur enim proident minim officia amet proident consequat consequat qui consequat magna magna occaecat aliquip culpa pariatur velit nisi nostrud irure eu ullamco exercitation sint.</p><p>Cillum deserunt laborum laborum quis nisi enim et aliquip labore excepteur in excepteur labore amet in ipsum ipsum nostrud deserunt lorem nisi voluptate dolor minim enim ut eu cupidatat enim.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -64,7 +64,7 @@ export const contacts = [
         address     : '856 Woodside Avenue, Alfarata, Iowa, PO4992',
         notes       : '<p>Consequat duis ullamco sint elit pariatur esse dolore nostrud consequat lorem duis sunt veniam ipsum exercitation eiusmod consequat nisi quis voluptate quis officia irure fugiat ex duis eu amet ex.</p><p>Irure est nisi dolor culpa sunt nulla irure lorem adipisicing non do consequat deserunt et ea eu non reprehenderit fugiat ex elit nulla sunt quis voluptate enim nulla aliquip veniam.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -95,7 +95,7 @@ export const contacts = [
         address     : '943 Adler Place, Hamilton, South Dakota, PO5592',
         notes       : '<p>Est amet in adipisicing ex excepteur ullamco est lorem adipisicing veniam reprehenderit elit commodo cillum commodo eu officia fugiat id reprehenderit sunt mollit eiusmod dolor fugiat ad do esse aliquip.</p><p>Mollit amet adipisicing enim est est commodo sint et eu nulla in laboris ipsum aliqua elit aliqua adipisicing ea nulla nulla consectetur velit laborum labore ullamco eu sit consectetur velit.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -135,7 +135,7 @@ export const contacts = [
         address     : '334 Sandford Street, Savage, Virgin Islands, PO1858',
         notes       : '<p>Consequat eu aliquip dolor non consequat laborum ad non labore cillum consectetur quis dolore do ea nulla incididunt proident ea eiusmod in do qui eiusmod et irure dolor ea adipisicing.</p><p>Reprehenderit occaecat nostrud ad aliquip commodo amet velit id ut minim dolor mollit mollit in eiusmod voluptate lorem nisi labore culpa elit proident laborum ipsum occaecat esse sint nostrud esse.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -167,7 +167,7 @@ export const contacts = [
         address     : '487 Hamilton Walk, Bergoo, American Samoa, PO5616',
         notes       : '<p>Id eiusmod deserunt amet lorem commodo consequat nostrud magna aliquip ex et pariatur labore non elit ad ad nulla culpa reprehenderit enim magna aliqua enim pariatur occaecat sint do lorem.</p><p>Adipisicing ut est nulla nisi cupidatat consequat aliqua et esse in voluptate amet eiusmod ut esse ea do irure commodo aute culpa amet consequat id adipisicing et incididunt ut duis.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -208,7 +208,7 @@ export const contacts = [
         address     : '610 Harbor Lane, Cascades, Minnesota, PO8639',
         notes       : '<p>Cillum enim eiusmod dolor aliqua ipsum exercitation sint aliqua lorem dolore id velit sint velit labore cupidatat minim cupidatat elit est magna eu proident eiusmod non pariatur est esse pariatur.</p><p>Sint do enim officia velit pariatur excepteur commodo adipisicing labore elit velit velit id exercitation excepteur veniam reprehenderit sint nulla duis ad incididunt cillum in in labore laboris magna esse.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -240,7 +240,7 @@ export const contacts = [
         address     : '428 Newport Street, Neahkahnie, Arkansas, PO8324',
         notes       : '<p>Incididunt lorem proident est anim amet nulla do nulla ea anim ullamco ea amet voluptate laboris do elit elit consequat in esse in dolor enim irure ut irure ad commodo.</p><p>Aliqua dolore nulla sunt ad nostrud aute labore occaecat non amet nulla adipisicing sint eu lorem velit sint do sint adipisicing esse adipisicing anim culpa quis dolor non magna ea.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -281,7 +281,7 @@ export const contacts = [
         address     : '384 Polhemus Place, Dalton, Palau, PO6038',
         notes       : '<p>Eu veniam consectetur eiusmod anim sint anim consectetur do consectetur aliqua cillum proident fugiat do in aliqua ipsum id consequat commodo qui officia adipisicing ullamco occaecat laboris proident incididunt exercitation.</p><p>Velit ullamco magna aute proident irure ut magna ullamco labore dolor deserunt deserunt tempor fugiat ex ullamco do sunt veniam reprehenderit officia elit duis sint ut proident pariatur est reprehenderit.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -312,7 +312,7 @@ export const contacts = [
         address     : '945 Jerome Avenue, Riceville, North Carolina, PO1625',
         notes       : '<p>Excepteur ullamco aute aliqua reprehenderit ullamco do anim ut ut veniam et ut et ut commodo aliqua consequat occaecat fugiat dolor labore proident ipsum ad culpa est cillum aliqua reprehenderit.</p><p>Amet aliqua sint laboris in aute nostrud voluptate tempor ea tempor laborum tempor culpa dolore aliqua nulla dolore ad enim id cupidatat nostrud nostrud amet non velit id fugiat lorem.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -348,7 +348,7 @@ export const contacts = [
         address     : '428 Varanda Place, Veyo, Oklahoma, PO6188',
         notes       : '<p>Laboris commodo consequat duis dolor ullamco nisi sunt ipsum nisi elit dolore aute sint tempor qui ad sit aliqua laboris consequat dolore aliqua est deserunt irure cillum tempor ut veniam.</p><p>Eiusmod nulla ex esse in deserunt consectetur non qui cillum reprehenderit magna sit ipsum lorem aute consequat sint magna id laboris velit adipisicing non ipsum ipsum sint velit ex non.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -385,7 +385,7 @@ export const contacts = [
         address     : '609 Greenpoint Avenue, Beason, Vermont, PO5229',
         notes       : '<p>Exercitation tempor laboris dolor deserunt nulla et nisi ullamco minim duis sint nulla sint deserunt irure excepteur nostrud ipsum duis enim sit exercitation eiusmod tempor commodo excepteur mollit cupidatat fugiat.</p><p>Deserunt est dolore nulla laborum consequat veniam elit lorem do exercitation incididunt ea ad laboris lorem ipsum ex incididunt nostrud ipsum laborum et nostrud minim aute velit incididunt quis quis.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -422,7 +422,7 @@ export const contacts = [
         address     : '183 Crosby Avenue, Blanco, Mississippi, PO3463',
         notes       : '<p>Mollit qui amet in esse ipsum nostrud cupidatat occaecat proident aliquip non mollit commodo ex labore enim culpa dolor aute occaecat cillum sit excepteur tempor culpa nostrud nulla qui commodo.</p><p>Labore nulla id excepteur non velit adipisicing tempor reprehenderit cillum sint do consectetur laboris ut proident pariatur quis aute ad dolor quis labore labore nostrud sunt elit proident enim aliqua.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -458,7 +458,7 @@ export const contacts = [
         address     : '736 Glen Street, Kaka, West Virginia, PO9350',
         notes       : '<p>Laboris consequat est anim quis quis eiusmod ipsum non quis fugiat anim culpa non elit mollit pariatur veniam nisi irure velit dolore dolor proident nisi deserunt culpa nisi et laborum.</p><p>Eiusmod eu esse ipsum voluptate excepteur ipsum et proident cupidatat sint sunt aliquip lorem culpa esse et dolor fugiat sit est id consectetur sint et ea pariatur occaecat nulla irure.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -499,7 +499,7 @@ export const contacts = [
         address     : '547 Revere Place, Hoehne, New Hampshire, PO2125',
         notes       : '<p>Duis incididunt minim nisi sit qui dolor aliquip quis ipsum id amet occaecat sit ullamco minim velit est eiusmod anim proident consectetur non reprehenderit ea reprehenderit dolore in nisi eiusmod.</p><p>Ut commodo aliqua non ut proident velit et commodo voluptate eu mollit dolor veniam ipsum velit aute esse est adipisicing id aliqua nostrud nostrud nisi enim officia eiusmod in enim.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -536,7 +536,7 @@ export const contacts = [
         address     : '480 Chase Court, Edinburg, Kansas, PO5357',
         notes       : '<p>Lorem ex amet anim anim qui consequat ullamco consectetur et voluptate in velit dolore culpa pariatur amet enim ut non magna duis qui excepteur esse ullamco velit fugiat aute dolor.</p><p>Reprehenderit ullamco veniam sit laborum nulla sunt excepteur eiusmod anim eu ullamco tempor est qui adipisicing sit fugiat voluptate minim non incididunt quis ipsum et exercitation officia laborum incididunt nostrud.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -577,7 +577,7 @@ export const contacts = [
         address     : '595 Howard Place, Convent, Rhode Island, PO6993',
         notes       : '<p>Lorem nostrud cillum non cillum nisi eu labore anim ipsum consequat consectetur sunt ipsum ipsum ad culpa laborum in ea exercitation quis voluptate velit id elit labore cillum cillum consectetur.</p><p>Ullamco ullamco nostrud aute pariatur nulla officia proident magna laborum dolor reprehenderit ullamco in reprehenderit veniam aliqua elit magna voluptate amet ut minim in labore irure culpa consequat sit pariatur.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -608,7 +608,7 @@ export const contacts = [
         address     : '971 Conover Street, Statenville, Louisiana, PO6622',
         notes       : '<p>Pariatur fugiat labore aliquip aute in adipisicing veniam et consequat magna nulla laboris eiusmod eu esse cupidatat ipsum amet sint est anim lorem consequat eiusmod sit aliquip consequat nisi duis.</p><p>Est esse excepteur non amet reprehenderit cillum ullamco ex excepteur laboris excepteur dolor magna enim consequat lorem commodo ipsum elit ea veniam non quis id nisi esse tempor enim ut.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -644,7 +644,7 @@ export const contacts = [
         address     : '197 Marconi Place, Welda, Delaware, PO6061',
         notes       : '<p>Aliqua ea dolor est enim ipsum esse pariatur tempor nulla excepteur aliquip irure fugiat reprehenderit adipisicing ex tempor proident voluptate dolore ea dolore nostrud id incididunt culpa in do occaecat.</p><p>Aute fugiat magna velit enim in duis duis elit ipsum excepteur reprehenderit do ipsum qui cillum aliquip ut occaecat do ea et adipisicing cupidatat voluptate non elit ad aliqua ad.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -681,7 +681,7 @@ export const contacts = [
         address     : '775 Dahill Road, Iberia, California, PO2169',
         notes       : '<p>Ut occaecat tempor deserunt proident enim ex ullamco ex aliquip mollit aute reprehenderit in occaecat anim aliquip ea laboris anim laboris do non aute aute ea laboris magna sunt sit.</p><p>Ullamco in in minim culpa eiusmod amet consequat consequat magna nisi cillum occaecat irure officia voluptate et eu duis officia nostrud culpa non eiusmod anim sint et anim enim voluptate.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -718,7 +718,7 @@ export const contacts = [
         address     : '305 Columbia Street, Dupuyer, Puerto Rico, PO8744',
         notes       : '<p>Proident nulla culpa magna nostrud do aliqua ullamco sit culpa ullamco eu amet culpa laborum enim fugiat non ad quis esse pariatur exercitation lorem incididunt exercitation aliquip labore minim adipisicing.</p><p>Sint ea voluptate tempor irure consequat aute laboris exercitation id minim voluptate aliquip tempor occaecat elit incididunt laboris enim labore sit aute sunt cillum ipsum ad laboris nostrud dolor excepteur.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -750,7 +750,7 @@ export const contacts = [
         address     : '195 Brooklyn Road, Jeff, Marshall Islands, PO2943',
         notes       : '<p>Ex nulla nisi do cillum consequat amet incididunt eu minim eu ut excepteur ad anim minim aliquip ullamco fugiat labore esse aliquip ea incididunt incididunt nisi officia consectetur dolore minim.</p><p>Et dolor consectetur anim deserunt laborum eu lorem et in nisi et officia nostrud fugiat deserunt aute irure ullamco officia fugiat voluptate exercitation ut deserunt officia nostrud tempor velit pariatur.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -782,7 +782,7 @@ export const contacts = [
         address     : '964 Henry Street, Eureka, Indiana, PO1035',
         notes       : '<p>Non proident pariatur nostrud dolor incididunt occaecat amet officia sunt magna anim dolor labore culpa ut laborum id incididunt officia amet mollit anim ea proident laboris non incididunt incididunt sint.</p><p>Nulla minim consectetur nostrud magna anim irure consectetur labore cupidatat laborum reprehenderit et et adipisicing in qui elit ipsum reprehenderit esse nisi non ipsum exercitation sunt eu elit velit fugiat.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -813,7 +813,7 @@ export const contacts = [
         address     : '622 Dodworth Street, Rose, Arizona, PO9530',
         notes       : '<p>Lorem laboris excepteur magna pariatur occaecat voluptate pariatur cillum exercitation anim enim elit laborum reprehenderit laboris ad velit ut ipsum irure id ullamco minim sint ipsum occaecat esse tempor ea.</p><p>Pariatur non labore cillum consectetur aute voluptate sint adipisicing nisi laborum culpa nisi elit et amet dolor incididunt velit ex laboris ea reprehenderit eiusmod qui esse veniam labore ea sit.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -840,7 +840,7 @@ export const contacts = [
         address     : '579 Pooles Lane, Belleview, Montana, PO4106',
         notes       : '<p>Incididunt labore sunt ullamco in deserunt dolore labore voluptate adipisicing eu id duis eiusmod elit ea ad cillum culpa excepteur labore fugiat excepteur ea culpa labore sit id dolor ullamco.</p><p>Eu eu ex dolore proident nostrud et minim lorem nulla lorem nulla duis velit voluptate nisi cillum anim minim amet dolore officia id cillum in cupidatat ipsum veniam velit dolor.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -871,7 +871,7 @@ export const contacts = [
         address     : '844 Ellery Street, Hondah, Texas, PO1272',
         notes       : '<p>Excepteur consequat magna laborum dolore ut laborum ea excepteur ad officia mollit exercitation sunt tempor amet ex ipsum aliquip cillum mollit amet laborum voluptate ipsum sit esse duis eiusmod adipisicing.</p><p>Non tempor ad pariatur adipisicing excepteur est pariatur aute et velit lorem ut est eu voluptate pariatur ea consectetur excepteur sunt reprehenderit id irure aliqua tempor anim id voluptate culpa.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -898,7 +898,7 @@ export const contacts = [
         address     : '614 Herkimer Court, Darrtown, Nebraska, PO9308',
         notes       : '<p>Culpa labore ullamco veniam est ullamco ipsum culpa excepteur esse esse aliqua nulla ullamco nulla amet consequat tempor aute exercitation do eu do ullamco elit excepteur est anim nisi excepteur.</p><p>Cillum eiusmod cupidatat officia ipsum ullamco adipisicing cillum adipisicing sint exercitation non enim consectetur est esse tempor fugiat sit eiusmod in exercitation enim quis duis dolor amet consequat pariatur dolor.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -925,7 +925,7 @@ export const contacts = [
         address     : '663 Drew Street, Juntura, Georgia, PO9857',
         notes       : '<p>Mollit et amet qui incididunt officia anim est in consectetur qui anim qui labore ea mollit veniam adipisicing ex magna commodo mollit adipisicing sunt commodo laboris labore aliquip deserunt est.</p><p>Cupidatat ut cillum anim reprehenderit ea magna enim fugiat proident anim esse lorem lorem commodo cupidatat pariatur qui commodo nulla aliqua nisi labore in adipisicing minim excepteur do eu amet.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -952,7 +952,7 @@ export const contacts = [
         address     : '762 Troutman Street, Drummond, Oregon, PO6973',
         notes       : '<p>Laboris dolor incididunt eiusmod deserunt officia labore eu est nulla velit id ex veniam qui fugiat velit irure reprehenderit dolor proident aliquip culpa nisi magna occaecat do nostrud cillum lorem.</p><p>Sit consequat laboris culpa quis laborum lorem ullamco occaecat labore duis ea et consequat pariatur reprehenderit excepteur excepteur exercitation sunt enim amet adipisicing laborum incididunt dolor aliquip culpa ea laboris.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -989,7 +989,7 @@ export const contacts = [
         address     : '674 Bryant Street, Grahamtown, Federated States Of Micronesia, PO2757',
         notes       : '<p>Velit consequat elit anim qui eu elit aliquip consectetur aliqua cupidatat lorem laboris dolor qui ad laborum adipisicing adipisicing consequat et nostrud ullamco consequat dolore deserunt irure do aliquip non.</p><p>Ipsum commodo voluptate qui ex ullamco amet do ex dolore quis cupidatat ut anim sunt dolore excepteur anim do dolor aliqua ex aute esse eiusmod sint laborum consequat laboris cillum.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -1020,7 +1020,7 @@ export const contacts = [
         address     : '869 Seton Place, Chemung, Maine, PO8109',
         notes       : '<p>Amet non anim ex ullamco pariatur ullamco laboris eiusmod ut magna nisi amet incididunt sunt anim nisi qui ut ex sunt adipisicing consequat deserunt qui mollit duis anim quis veniam.</p><p>Magna ut id duis qui ea proident quis officia lorem commodo et et proident dolore qui quis incididunt nulla incididunt ut aliqua veniam est adipisicing adipisicing reprehenderit ad velit incididunt.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1057,7 +1057,7 @@ export const contacts = [
         address     : '854 Hanover Place, Harleigh, New Jersey, PO9459',
         notes       : '<p>Ea occaecat nisi cillum officia in velit ipsum reprehenderit ex fugiat fugiat ad velit pariatur ullamco sint in elit quis aute id cupidatat nostrud quis culpa aliquip id officia excepteur.</p><p>Ea ut consequat sit ullamco do pariatur quis officia ad ipsum quis nisi in nulla incididunt esse pariatur amet qui ullamco consectetur dolor voluptate sit qui mollit reprehenderit reprehenderit amet.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -1089,7 +1089,7 @@ export const contacts = [
         address     : '137 Bridge Street, Sisquoc, District Of Columbia, PO4105',
         notes       : '<p>Ipsum velit est do velit do deserunt cupidatat officia duis laborum veniam sunt in ex reprehenderit esse ex ad aute anim duis ut sunt reprehenderit occaecat ut nostrud eu minim.</p><p>Aliqua consequat adipisicing adipisicing aliquip voluptate fugiat eu amet nostrud id proident non nisi fugiat velit nostrud ea officia non laboris magna cillum exercitation culpa eiusmod mollit fugiat et lorem.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1130,7 +1130,7 @@ export const contacts = [
         address     : '528 Glenmore Avenue, Elrama, Illinois, PO2952',
         notes       : '<p>Ea enim exercitation lorem excepteur officia nulla culpa culpa nisi veniam quis non duis exercitation labore commodo et occaecat reprehenderit ex velit exercitation commodo cupidatat amet veniam mollit magna consectetur.</p><p>Voluptate consectetur eu id eiusmod anim reprehenderit incididunt duis veniam tempor cillum ea esse tempor do laborum dolore sint ea duis incididunt in do aliqua voluptate incididunt officia excepteur do.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -1162,7 +1162,7 @@ export const contacts = [
         address     : '277 Coventry Road, Fairforest, Nevada, PO6031',
         notes       : '<p>Lorem mollit dolore nostrud sunt id anim veniam labore duis eiusmod duis fugiat aliqua occaecat do labore culpa consectetur consectetur sunt amet tempor incididunt tempor esse sunt id elit non.</p><p>Laborum mollit ullamco quis ad culpa nisi sit nisi veniam minim adipisicing sint eiusmod velit amet minim aliquip nulla eiusmod nulla laboris quis proident in adipisicing aute et ea anim.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -1189,7 +1189,7 @@ export const contacts = [
         address     : '557 Monroe Street, Mayfair, Maryland, PO7200',
         notes       : '<p>Fugiat mollit sunt aliquip consectetur ipsum ut aliqua id ex laboris labore id elit nulla irure id aute pariatur do officia proident eiusmod proident reprehenderit dolor non dolor laborum nulla.</p><p>Pariatur reprehenderit incididunt voluptate enim aliqua laborum anim veniam pariatur irure exercitation non dolore velit et ex culpa lorem ipsum mollit eu sint duis aliquip elit amet consectetur velit minim.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -1221,7 +1221,7 @@ export const contacts = [
         address     : '219 Village Court, Keyport, Alabama, PO7776',
         notes       : '<p>Velit enim anim est aliqua consequat exercitation velit quis magna est incididunt ipsum minim minim nulla adipisicing ad eiusmod id veniam eiusmod sit elit est pariatur velit ea laborum anim.</p><p>Ad lorem ea nisi irure id consequat ullamco nisi nostrud dolore officia ipsum veniam velit minim pariatur culpa culpa esse minim adipisicing sit labore commodo aute excepteur non do in.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1253,7 +1253,7 @@ export const contacts = [
         address     : '448 Berriman Street, Reinerton, Washington, PO6704',
         notes       : '<p>Esse sint lorem exercitation velit tempor tempor voluptate nulla proident excepteur magna tempor consectetur aliquip qui nisi mollit cupidatat est adipisicing ipsum sint et excepteur sit labore velit dolore labore.</p><p>Duis nisi adipisicing lorem do excepteur magna consequat labore magna ut consectetur eu enim occaecat id nulla laboris minim officia est id nisi mollit ullamco irure ut dolore esse aliqua.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1284,7 +1284,7 @@ export const contacts = [
         address     : '578 Tampa Court, Wescosville, Ohio, PO4108',
         notes       : '<p>Lorem do deserunt nulla nostrud incididunt et laboris labore eu nisi ut ullamco veniam deserunt do non labore commodo amet aliquip exercitation ea occaecat amet non eiusmod ut minim fugiat.</p><p>Esse eu ex irure pariatur qui cillum labore nulla quis officia consequat commodo consequat fugiat culpa nostrud labore eu adipisicing magna irure aliquip est amet irure eiusmod esse reprehenderit mollit.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -1321,7 +1321,7 @@ export const contacts = [
         address     : '931 Bristol Street, Why, South Carolina, PO9700',
         notes       : '<p>Dolore laboris aute officia reprehenderit cupidatat aliquip duis labore aliquip officia est nostrud nisi voluptate eiusmod ad aute et ea cillum aliqua elit ipsum officia cillum laborum minim labore sit.</p><p>Exercitation labore ut pariatur occaecat ullamco non occaecat aliqua amet nostrud aliquip ipsum ad do ullamco enim laborum commodo minim elit ut quis laboris elit laborum proident sunt ullamco sit.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -1358,7 +1358,7 @@ export const contacts = [
         address     : '268 Hutchinson Court, Drytown, Florida, PO3041',
         notes       : '<p>Eu ipsum nisi eu lorem cupidatat mollit exercitation elit ea culpa enim qui culpa ad aliqua exercitation tempor nulla excepteur fugiat ipsum quis amet occaecat adipisicing ullamco duis dolore occaecat.</p><p>Non eu et elit ea labore lorem adipisicing voluptate incididunt ut officia aute minim incididunt lorem qui adipisicing mollit magna nisi consectetur cillum sit exercitation eiusmod qui eu nisi sunt.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -1385,7 +1385,7 @@ export const contacts = [
         address     : '946 Remsen Street, Caroline, New Mexico, PO3247',
         notes       : '<p>Amet dolore elit irure in commodo in et eu eu nulla labore elit sunt et nisi quis officia nostrud et mollit dolor aute fugiat sunt reprehenderit quis sint minim ipsum.</p><p>Laboris ut sunt nisi aute incididunt reprehenderit mollit culpa velit exercitation reprehenderit irure id sunt officia magna est ea labore consectetur incididunt cillum qui tempor ea ullamco quis pariatur aliquip.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -1417,7 +1417,7 @@ export const contacts = [
         address     : '397 Vandalia Avenue, Rockingham, Michigan, PO8089',
         notes       : '<p>Velit sunt sunt commodo ex amet laboris voluptate eu lorem aliqua minim occaecat cupidatat aliqua ipsum nisi velit id reprehenderit exercitation velit fugiat minim nisi deserunt voluptate anim cillum commodo.</p><p>Cillum velit nostrud cupidatat ex sit culpa deserunt cillum cupidatat cillum aute cupidatat exercitation ullamco sunt incididunt non magna sint lorem et incididunt laborum culpa qui sint sunt duis fugiat.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1449,7 +1449,7 @@ export const contacts = [
         address     : '821 Beverly Road, Tyro, Colorado, PO4248',
         notes       : '<p>Incididunt non est consequat qui sit sunt aliquip sit quis minim laboris ullamco est culpa velit culpa cupidatat veniam incididunt non quis elit reprehenderit et officia cillum magna aliqua occaecat.</p><p>Cupidatat amet incididunt id pariatur minim veniam id dolor nisi labore cillum ea officia cupidatat do culpa aliqua consequat deserunt aliquip sit ea excepteur eiusmod labore tempor reprehenderit commodo exercitation.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -1485,7 +1485,7 @@ export const contacts = [
         address     : '364 Porter Avenue, Delshire, Missouri, PO8911',
         notes       : '<p>Velit fugiat minim sit nisi esse laboris ad velit proident non et cillum labore sint excepteur nisi eu amet voluptate duis duis id enim ea anim adipisicing consectetur id consectetur.</p><p>Ex eiusmod id magna in non lorem sunt sunt officia do adipisicing officia mollit occaecat sunt laborum aliquip adipisicing ullamco in sit proident et quis incididunt pariatur fugiat mollit anim.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -1516,7 +1516,7 @@ export const contacts = [
         address     : '101 Sackett Street, Naomi, Tennessee, PO6335',
         notes       : '<p>Ut cupidatat sint minim consectetur cupidatat aute ut anim consequat fugiat laboris quis sint sit nulla irure nulla officia eiusmod consequat ex quis ad ex ullamco et ut labore tempor.</p><p>Deserunt minim dolore voluptate aute aliqua est elit mollit ut ut consequat in esse est do ex officia nostrud aute id fugiat reprehenderit quis cillum fugiat id fugiat minim tempor.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1553,7 +1553,7 @@ export const contacts = [
         address     : '956 Pierrepont Street, Crumpler, Hawaii, PO3299',
         notes       : '<p>Esse excepteur ad aliquip amet elit reprehenderit ut nostrud magna ex esse dolore magna excepteur irure esse incididunt sunt enim laborum ex mollit magna elit quis ullamco aute minim veniam.</p><p>Duis id ullamco laboris elit ea ea dolore tempor est eu esse aliqua quis quis ut laborum mollit cillum proident deserunt fugiat ipsum elit exercitation quis mollit eiusmod officia non.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -1580,7 +1580,7 @@ export const contacts = [
         address     : '384 Love Lane, Dyckesville, New York, PO4115',
         notes       : '<p>Consectetur eu et ea anim magna occaecat anim labore velit nulla non magna laboris duis sit adipisicing commodo laboris consequat id quis aliqua est culpa quis in ex est culpa.</p><p>Sunt qui excepteur reprehenderit nostrud voluptate eu laborum laborum id esse occaecat irure esse elit magna tempor ad est elit non labore tempor laborum deserunt voluptate cupidatat excepteur sunt sint.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -1612,7 +1612,7 @@ export const contacts = [
         address     : '725 Arlington Avenue, Mathews, Wyoming, PO4562',
         notes       : '<p>Eiusmod ullamco laboris tempor reprehenderit culpa non sunt ea consequat velit id ipsum commodo eiusmod exercitation laboris aliqua magna reprehenderit culpa tempor mollit pariatur consectetur amet aliqua cillum voluptate exercitation.</p><p>Qui cillum consectetur qui proident adipisicing id qui esse aute velit excepteur pariatur ea excepteur sunt velit nostrud esse mollit sint ex irure sunt aliquip velit consequat minim do officia.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -1653,7 +1653,7 @@ export const contacts = [
         address     : '253 Beard Street, Staples, Massachusetts, PO8089',
         notes       : '<p>Proident est est et in commodo incididunt anim fugiat laboris pariatur eu enim dolor eiusmod dolor voluptate officia eiusmod excepteur culpa aute do do anim pariatur irure incididunt incididunt est.</p><p>Sint duis mollit dolor laborum ex non esse consequat anim et qui est nostrud incididunt fugiat anim veniam sunt cupidatat ut voluptate commodo non ex tempor ullamco magna culpa culpa.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -1690,7 +1690,7 @@ export const contacts = [
         address     : '962 Whitney Avenue, Sussex, North Dakota, PO5796',
         notes       : '<p>Nulla nisi officia quis aliquip voluptate mollit ut anim eu et quis tempor incididunt consectetur exercitation cupidatat in nisi exercitation est culpa nostrud sit elit sit sunt do ipsum eu.</p><p>Enim voluptate ad ullamco tempor voluptate culpa et ut ullamco eu consequat est esse excepteur est nostrud velit enim culpa dolore non quis occaecat eiusmod velit ex mollit tempor labore.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -1721,7 +1721,7 @@ export const contacts = [
         address     : '981 Kingston Avenue, Topaz, Connecticut, PO6866',
         notes       : '<p>Adipisicing fugiat magna eiusmod consectetur id commodo incididunt ullamco ut sint minim nulla in do aute in sit pariatur irure dolor magna pariatur ad officia excepteur duis ullamco dolor sunt.</p><p>Dolor laborum proident voluptate eu esse lorem adipisicing enim consectetur veniam nisi pariatur aliquip sit laborum sunt adipisicing anim labore eiusmod nostrud irure irure nisi ipsum dolor aliquip ex exercitation.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -1762,7 +1762,7 @@ export const contacts = [
         address     : '802 Preston Court, Waikele, Pennsylvania, PO7421',
         notes       : '<p>Aliqua sint aute in cillum deserunt enim fugiat tempor est pariatur irure commodo commodo deserunt eu nulla laboris enim occaecat incididunt voluptate enim est reprehenderit qui anim veniam sint adipisicing.</p><p>Commodo veniam occaecat ex et laborum minim fugiat sunt commodo velit dolor labore excepteur fugiat ipsum eiusmod in esse ex nulla deserunt minim consectetur in est sunt eu commodo fugiat.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -1789,7 +1789,7 @@ export const contacts = [
         address     : '935 Guider Avenue, Kipp, Wisconsin, PO5282',
         notes       : '<p>Magna et culpa cillum sint labore consequat aute aliqua amet ea consequat ut ullamco nisi commodo lorem enim amet dolor sit nisi dolor do sit lorem cillum esse reprehenderit ut.</p><p>Quis veniam anim nulla adipisicing veniam fugiat elit duis pariatur anim irure adipisicing elit labore eu aute exercitation qui exercitation commodo exercitation ipsum tempor non et ex eu aute proident.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -1826,7 +1826,7 @@ export const contacts = [
         address     : '387 Holt Court, Thomasville, Alaska, PO2867',
         notes       : '<p>Adipisicing exercitation dolor nisi ipsum nostrud anim dolore sint veniam consequat lorem sit ex commodo nostrud occaecat elit magna magna commodo incididunt laborum ad irure pariatur et sit ullamco adipisicing.</p><p>Ullamco in dolore amet est quis consectetur fugiat non nisi incididunt id laborum adipisicing dolor proident velit ut quis aliquip dolore id anim sit adipisicing nisi incididunt enim amet pariatur.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1862,7 +1862,7 @@ export const contacts = [
         address     : '733 Delmonico Place, Belvoir, Virginia, PO7102',
         notes       : '<p>Voluptate nisi adipisicing ex magna mollit non cillum dolor in magna duis exercitation irure elit duis eiusmod deserunt lorem nulla sunt laboris quis voluptate ullamco labore adipisicing quis minim ipsum.</p><p>Id ut esse elit proident mollit nulla exercitation magna voluptate sit eiusmod labore velit commodo exercitation dolore anim est eiusmod occaecat et consequat eiusmod culpa ipsum deserunt lorem non incididunt.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -1903,7 +1903,7 @@ export const contacts = [
         address     : '713 Fane Court, Lemoyne, Kentucky, PO3601',
         notes       : '<p>Sint tempor consectetur ullamco ullamco consequat exercitation ea occaecat eiusmod cupidatat anim pariatur nisi pariatur excepteur ut labore anim excepteur sit eu consequat do enim pariatur et dolore in irure.</p><p>Commodo ut non minim sunt nisi tempor culpa duis anim ipsum qui irure lorem est voluptate voluptate officia occaecat lorem labore elit officia laboris mollit et eiusmod esse laborum nisi.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -1939,7 +1939,7 @@ export const contacts = [
         address     : '698 Brooklyn Avenue, Dixonville, Utah, PO2712',
         notes       : '<p>Pariatur velit ea ad quis elit pariatur consectetur eiusmod veniam non incididunt ex ex et nulla voluptate fugiat esse sit dolore voluptate in dolor nulla laborum irure consequat sit pariatur.</p><p>Dolore ex officia incididunt pariatur ea amet sunt enim aute labore cupidatat laboris eiusmod enim lorem labore nostrud ea consectetur et eu sunt exercitation dolore consequat fugiat anim in exercitation.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -1980,7 +1980,7 @@ export const contacts = [
         address     : '923 Ivan Court, Hatteras, Idaho, PO7573',
         notes       : '<p>Est duis sint ullamco nulla do tempor do dolore laboris in sint ad duis est eu consequat nisi esse irure tempor sunt pariatur qui mollit ipsum quis esse ex ipsum.</p><p>Dolore anim irure quis ipsum adipisicing sint et incididunt aute nisi minim aliquip consectetur duis tempor laborum nostrud exercitation do mollit irure anim lorem non excepteur commodo laborum dolore dolor.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -2021,7 +2021,7 @@ export const contacts = [
         address     : '539 Rockaway Avenue, Whitmer, Guam, PO4871',
         notes       : '<p>Sunt quis officia elit laborum excepteur consequat amet cillum labore deserunt cillum cillum labore exercitation minim laboris anim incididunt voluptate minim duis enim eu duis veniam labore nisi culpa duis.</p><p>Pariatur irure sunt et commodo reprehenderit consectetur duis et ullamco fugiat occaecat culpa enim incididunt officia minim aliqua sit amet do dolore pariatur fugiat et adipisicing labore dolor id dolore.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -2048,7 +2048,7 @@ export const contacts = [
         address     : '233 Willmohr Street, Cressey, Iowa, PO1962',
         notes       : '<p>In amet voluptate ad eiusmod cupidatat nulla sunt eu amet occaecat qui cillum occaecat tempor minim nostrud ullamco amet elit aliquip est nisi officia lorem occaecat ea lorem officia veniam.</p><p>Nulla tempor id excepteur irure do do veniam eiusmod esse ipsum sint dolore commodo enim officia nulla nulla proident in dolor et aliquip sit nulla sit proident duis aute deserunt.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -2089,7 +2089,7 @@ export const contacts = [
         address     : '916 Cobek Court, Morningside, South Dakota, PO2019',
         notes       : '<p>Laboris consequat labore nisi aute voluptate minim amet nulla elit tempor dolor nulla do et consequat esse dolore fugiat laboris deserunt velit minim laboris voluptate enim ut non laboris nisi.</p><p>Magna pariatur voluptate veniam nostrud irure magna pariatur ut quis reprehenderit voluptate aute duis sunt laboris consequat lorem eu pariatur nulla incididunt quis lorem consectetur ex lorem commodo magna dolore.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -2130,7 +2130,7 @@ export const contacts = [
         address     : '405 Canarsie Road, Richville, Virgin Islands, PO2744',
         notes       : '<p>Occaecat do excepteur non ipsum labore consequat id eu sunt minim aliquip elit occaecat velit ut aute cupidatat irure ex eiusmod fugiat ea ea cupidatat nulla dolor labore consectetur amet.</p><p>Mollit enim dolore deserunt tempor aliqua velit nostrud nostrud id consectetur lorem in enim excepteur nisi laborum ex commodo sint ea et culpa lorem esse culpa ad officia do amet.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -2167,7 +2167,7 @@ export const contacts = [
         address     : '540 Metrotech Courtr, Garfield, American Samoa, PO2290',
         notes       : '<p>Ullamco dolore ipsum exercitation officia dolore sit consequat nisi consequat occaecat et ipsum veniam anim tempor pariatur sunt in adipisicing aliqua non dolor laborum veniam nisi dolore quis sunt incididunt.</p><p>Incididunt ullamco sunt magna reprehenderit velit dolor qui anim eiusmod nostrud commodo exercitation velit incididunt exercitation nulla ad aute eiusmod est amet exercitation est nostrud sit esse esse ad irure.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -2198,7 +2198,7 @@ export const contacts = [
         address     : '825 Cherry Street, Foscoe, Minnesota, PO7290',
         notes       : '<p>Fugiat in exercitation nostrud labore labore irure ex magna ex aliquip veniam sit irure irure deserunt occaecat tempor cillum aliqua dolore ea tempor dolore laboris est amet quis consequat quis.</p><p>Esse officia velit consectetur ullamco ea pariatur mollit sit consectetur sint mollit commodo anim anim ea amet consectetur eiusmod aliqua excepteur elit laborum magna non fugiat nisi pariatur ut velit.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -2235,7 +2235,7 @@ export const contacts = [
         address     : '315 Albemarle Road, Allison, Arkansas, PO6008',
         notes       : '<p>Eiusmod deserunt aliqua dolore ipsum cillum veniam minim dolore nulla aute aliqua voluptate labore sint cillum excepteur nulla nostrud do cupidatat eu adipisicing reprehenderit deserunt elit qui mollit adipisicing eu.</p><p>Proident commodo magna eu voluptate eiusmod aliqua laborum eu ea elit quis ullamco ullamco magna minim enim amet dolore sit lorem aliqua officia amet officia non magna enim cillum sit.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -2271,7 +2271,7 @@ export const contacts = [
         address     : '818 Aviation Road, Geyserville, Palau, PO9655',
         notes       : '<p>Cupidatat lorem tempor commodo do eu ea dolor eiusmod do nisi occaecat fugiat labore non esse aliquip ullamco laboris adipisicing pariatur nostrud enim minim do fugiat culpa exercitation lorem duis.</p><p>Pariatur cupidatat tempor est et nostrud in amet aliquip sint nulla amet ea lorem irure sint sit ea aliquip voluptate id laboris fugiat cillum cillum dolore deserunt fugiat ad tempor.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -2308,7 +2308,7 @@ export const contacts = [
         address     : '386 Vernon Avenue, Dragoon, North Carolina, PO4559',
         notes       : '<p>Esse amet ex duis esse aliqua non tempor ullamco dolore et aliquip nisi pariatur qui laborum id consequat tempor sint eiusmod exercitation velit aliquip occaecat tempor nisi aute magna sint.</p><p>Deserunt veniam voluptate dolore eiusmod eu consequat dolor sit pariatur laboris anim excepteur consequat nulla officia exercitation magna sint ea excepteur qui eu officia pariatur culpa sint elit nulla officia.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -2340,7 +2340,7 @@ export const contacts = [
         address     : '238 Rochester Avenue, Lydia, Oklahoma, PO3914',
         notes       : '<p>Excepteur do ullamco voluptate deserunt tempor ullamco enim non incididunt adipisicing sunt sint sit qui occaecat occaecat id laboris et duis amet reprehenderit cupidatat aliquip dolore ea eu ea nulla.</p><p>Cillum nulla deserunt laboris eu sint dolor non laboris cupidatat aute nisi amet mollit ipsum cillum excepteur consequat tempor exercitation consequat nostrud ipsum qui excepteur eiusmod nostrud laboris pariatur sint.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -2377,7 +2377,7 @@ export const contacts = [
         address     : '112 Tillary Street, Camptown, Vermont, PO8827',
         notes       : '<p>Pariatur tempor laborum deserunt commodo eiusmod adipisicing amet anim irure fugiat laboris velit do velit elit aute deserunt officia fugiat nulla ullamco est elit veniam officia sit veniam velit commodo.</p><p>Laboris duis eu adipisicing esse fugiat voluptate enim sint in voluptate lorem laboris eiusmod commodo nostrud dolor qui incididunt non fugiat culpa aliquip minim voluptate lorem sint sunt velit eiusmod.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -2413,7 +2413,7 @@ export const contacts = [
         address     : '951 Hampton Avenue, Bartonsville, Mississippi, PO4232',
         notes       : '<p>Ad lorem id irure aute ipsum ex occaecat commodo dolore eu dolor exercitation anim quis officia deserunt lorem sunt officia eu sit aliquip laborum id duis aliqua quis aute magna.</p><p>Do do lorem est amet aliqua ex excepteur nisi cupidatat esse consequat ipsum in ad eiusmod proident cupidatat dolore anim ut pariatur sint do elit incididunt officia adipisicing amet eu.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     },
     {
@@ -2450,7 +2450,7 @@ export const contacts = [
         address     : '157 Woodhull Street, Rutherford, West Virginia, PO6646',
         notes       : '<p>Duis laboris consectetur et anim eiusmod laborum aute mollit ut officia ipsum dolore eiusmod ex eu elit officia est amet aliquip ullamco veniam proident id aliquip duis qui voluptate fugiat.</p><p>Sunt aliquip nulla amet sint culpa laboris quis proident qui veniam excepteur ullamco irure non eu occaecat est enim ut velit dolore sit tempor cillum reprehenderit proident velit lorem ad.</p>',
         tags        : [
-            '2026ce08-d08f-4b4f-9506-b10cdb5b104f'
+            '0'
         ]
     },
     {
@@ -2481,7 +2481,7 @@ export const contacts = [
         address     : '604 Merit Court, Wyano, New Hampshire, PO1641',
         notes       : '<p>Dolor anim fugiat aliquip eiusmod lorem nisi adipisicing ea deserunt est quis non sit nulla voluptate deserunt magna eiusmod irure labore fugiat consectetur laboris velit voluptate exercitation aute magna sit.</p><p>Sunt ullamco quis qui ea ullamco quis sit ex nisi deserunt fugiat qui culpa minim proident dolor veniam lorem nulla amet do dolor proident sunt ex incididunt ipsum cillum non.</p>',
         tags        : [
-            'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309'
+            '1'
         ]
     },
     {
@@ -2522,7 +2522,7 @@ export const contacts = [
         address     : '100 Menahan Street, Snyderville, Kansas, PO1006',
         notes       : '<p>Sint anim sint tempor proident irure proident exercitation dolor enim in sint non occaecat tempor mollit dolore ea labore ipsum sunt in incididunt proident excepteur id in velit et quis.</p><p>Amet mollit ut nostrud cupidatat ut culpa irure in ex occaecat aute aliqua tempor incididunt elit nulla irure aliqua ea do amet ex elit incididunt minim eu fugiat elit pariatur.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -2553,7 +2553,7 @@ export const contacts = [
         address     : '283 Albany Avenue, Jennings, Rhode Island, PO1646',
         notes       : '<p>Id est dolore nostrud consectetur ullamco aliquip dolore nisi consectetur cupidatat consectetur ut lorem exercitation laborum est culpa qui aliquip fugiat fugiat laborum minim sint sit laborum elit consectetur occaecat.</p><p>Cillum eu aliquip ex enim dolore enim ea pariatur elit voluptate in eu magna eu voluptate est cupidatat aliqua cupidatat ex eu dolor voluptate velit fugiat ipsum labore labore aliqua.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -2585,7 +2585,7 @@ export const contacts = [
         address     : '560 Dooley Street, Ellerslie, Louisiana, PO1005',
         notes       : '<p>Pariatur esse ex laborum ex dolor laborum proident enim consectetur occaecat magna adipisicing magna dolore officia aute et dolor aliquip enim adipisicing culpa reprehenderit aliqua officia qui pariatur aliquip occaecat.</p><p>Excepteur est nisi officia eiusmod et duis mollit labore minim duis officia lorem ipsum duis deserunt cupidatat excepteur nostrud incididunt non cillum fugiat adipisicing anim consectetur nostrud aliquip labore cupidatat.</p>',
         tags        : [
-            '56ddbd47-4078-4ddd-8448-73c5e88d5f59'
+            '0'
         ]
     },
     {
@@ -2622,7 +2622,7 @@ export const contacts = [
         address     : '445 Remsen Avenue, Ruckersville, Delaware, PO2712',
         notes       : '<p>Pariatur do nisi labore culpa minim aliquip excepteur voluptate id id aute eu aliquip adipisicing nulla laboris consectetur dolore ullamco ut exercitation fugiat excepteur veniam ex cillum cupidatat ad adipisicing.</p><p>Dolor culpa dolor magna incididunt voluptate sunt amet dolor cillum ut nostrud nisi quis ex pariatur enim dolore sunt sunt cupidatat id non lorem magna esse amet commodo minim id.</p>',
         tags        : [
-            'cbde2486-5033-4e09-838e-e901b108cd41'
+            '0'
         ]
     },
     {
@@ -2654,7 +2654,7 @@ export const contacts = [
         address     : '911 Lois Avenue, Epworth, California, PO6557',
         notes       : '<p>Veniam deserunt aliquip culpa commodo et est ea cillum ea pariatur reprehenderit dolore adipisicing voluptate dolor eiusmod tempor exercitation reprehenderit nostrud labore nostrud do nulla commodo officia qui culpa ea.</p><p>Velit deserunt do ut esse tempor minim cupidatat amet qui consequat enim duis elit veniam sunt sit aliquip irure cillum irure sunt officia incididunt cupidatat commodo amet non qui anim.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -2681,7 +2681,7 @@ export const contacts = [
         address     : '514 Sutter Avenue, Shindler, Puerto Rico, PO3862',
         notes       : '<p>Ullamco ut aute reprehenderit velit incididunt veniam consequat ut ipsum sint laborum duis officia pariatur mollit enim nulla reprehenderit dolor aliquip labore ex aute in sunt dolor nulla reprehenderit dolor.</p><p>Ad enim ex non minim commodo culpa culpa ex est anim aute adipisicing proident ut ex et aliquip amet exercitation lorem tempor laborum quis reprehenderit veniam proident ullamco id eiusmod.</p>',
         tags        : [
-            '3eaab175-ec0d-4db7-bc3b-efc633c769be'
+            '0'
         ]
     },
     {
@@ -2708,7 +2708,7 @@ export const contacts = [
         address     : '569 Clermont Avenue, Movico, Marshall Islands, PO7293',
         notes       : '<p>Duis laborum magna ipsum officia cillum ea ut commodo anim exercitation incididunt id ipsum nisi consectetur aute officia culpa anim in veniam ad officia consequat qui ullamco ea laboris ad.</p><p>Ad ea excepteur ea veniam nostrud est labore ea consectetur laboris cupidatat aute pariatur aute mollit dolor do deserunt nisi mollit fugiat qui officia ullamco est officia est ullamco consequat.</p>',
         tags        : [
-            '65930b5a-5d2a-4303-b11f-865d69e6fdb5'
+            '0'
         ]
     },
     {
@@ -2749,7 +2749,7 @@ export const contacts = [
         address     : '103 Chestnut Avenue, Glenbrook, Indiana, PO2578',
         notes       : '<p>Ad ipsum occaecat dolore ullamco labore ex sint est pariatur aliquip ea do esse do est dolore duis excepteur esse irure eiusmod pariatur elit nostrud laboris ad ex nostrud nostrud.</p><p>Occaecat proident magna elit ullamco ea incididunt fugiat est nulla reprehenderit in veniam esse qui minim aliqua tempor excepteur dolor et tempor occaecat in veniam esse qui exercitation laborum esse.</p>',
         tags        : [
-            'a8991c76-2fda-4bbd-a718-df13d6478847'
+            '2'
         ]
     }
 ];
@@ -4400,33 +4400,19 @@ export const countries = [
         flagImagePos: '-1px -2789px'
     }
 ];
+/*
 export const tags = [
     {
-        id   : 'c31e9e5d-e0cb-4574-a13f-8a6ee5ff8309',
-        title: 'Work'
+        id   : '1',
+        title: 'Driver'
     },
     {
-        id   : 'a8991c76-2fda-4bbd-a718-df13d6478847',
-        title: 'Friend'
+        id   : '2',
+        title: 'Partner'
     },
     {
-        id   : '56ddbd47-4078-4ddd-8448-73c5e88d5f59',
-        title: 'Family'
-    },
-    {
-        id   : '2026ce08-d08f-4b4f-9506-b10cdb5b104f',
-        title: 'High School'
-    },
-    {
-        id   : '65930b5a-5d2a-4303-b11f-865d69e6fdb5',
-        title: 'College'
-    },
-    {
-        id   : '3eaab175-ec0d-4db7-bc3b-efc633c769be',
-        title: 'Baseball Team'
-    },
-    {
-        id   : 'cbde2486-5033-4e09-838e-e901b108cd41',
-        title: 'Band'
-    }
+        id   : '0',
+        title: 'Customer'
+    }   
 ];
+*/

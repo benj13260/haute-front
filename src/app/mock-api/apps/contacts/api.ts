@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { from, map } from 'rxjs';
 import { assign, cloneDeep } from 'lodash-es';
 import { FuseMockApiService, FuseMockApiUtils } from '@fuse/lib/mock-api';
-import { contacts as contactsData, countries as countriesData, tags as tagsData } from 'app/mock-api/apps/contacts/data';
+import { contacts as contactsData, countries as countriesData } from 'app/mock-api/apps/contacts/data';
 
 @Injectable({
     providedIn: 'root'
@@ -11,7 +11,7 @@ export class ContactsMockApi
 {
     private _contacts: any[] = contactsData;
     private _countries: any[] = countriesData;
-    private _tags: any[] = tagsData;
+    private _tags: any[] //= tagsData;
 
     /**
      * Constructor

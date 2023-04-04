@@ -23,44 +23,40 @@ export const defaultNavigation: FuseNavigationItem[] = [
                 icon : 'heroicons_outline:view-boards',
                 link : '/apps/scrumboard'
             },
+            {
+                id   : 'apps.bookings',
+                title: 'Bookings',
+                type : 'basic',
+                icon : 'heroicons_outline:book-open',
+                link : '/apps/bookings'
+            },            
+            {
+                id   : 'apps.contacts',
+                title: 'Contacts',
+                type : 'basic',
+                icon : 'heroicons_outline:user-group',
+                link : '/apps/contacts'
+            },
         ]
-    }    
-];
-export const compactNavigation: FuseNavigationItem[] = [
+    },    
     {
-        id   : 'example',
-        title: 'Example',
-        type : 'basic',
-        icon : 'heroicons_outline:chart-pie',
-        link : '/example'
-    }
-];
-export const futuristicNavigation: FuseNavigationItem[] = [
-    {
-        id   : 'example',
-        title: 'Example',
-        type : 'basic',
-        icon : 'heroicons_outline:chart-pie',
-        link : '/example'        
-    },
-    {
-        id      : 'apps',
-        title   : 'Applications',
-        subtitle: 'Custom made application designs',
+        id      : 'others',
+        title   : 'Others',
+        subtitle: '',
         type    : 'group',
         icon    : 'heroicons_outline:home',
         children: [    
             {
-                id   : 'apps.scrumboard',
-                title: 'Scrumboard',
+                id   : 'apps.ecommerce.inventory',
+                title: 'Inventory',
                 type : 'basic',
-                icon : 'heroicons_outline:view-boards',
-                link : '/apps/scrumboard'
-            },
+                icon : 'heroicons_outline:user-group',
+                link : '/apps/ecommerce/inventory'
+            },            
         ]
-    }
+    }    
 ];
-export const horizontalNavigation: FuseNavigationItem[] = [
+export const compactNavigation: FuseNavigationItem[] = [
     {
         id   : 'example',
         title: 'Example',
