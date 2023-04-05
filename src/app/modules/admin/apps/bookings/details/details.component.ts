@@ -275,6 +275,10 @@ export class BookingsDetailsComponent implements OnInit, OnDestroy {
         return this._bookingsService.locationNames.get(id)
     }
 
+    getContactName(id: number): string {
+        return this._bookingsService.locationNames.get(id)
+    }
+
 
     /**
      * Update the booking

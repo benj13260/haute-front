@@ -2,6 +2,7 @@
 
 export interface Booking {
     id?: string | null;
+    contactId?: string | null;
     roundTrip?: string | 'true';
     from?: string | null;
     to?: string | null;

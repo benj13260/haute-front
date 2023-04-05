@@ -56,6 +56,7 @@
                 <div class="flex flex-col mt-4 pt-6 border-t space-y-2">
 
                     <ng-container *ngIf="booking.dateFrom">
+                        <div class="px-2">Customer <b>{{booking.children || 0}}</b></div>
                         <div class="px-2">Adults <b>{{booking.adults || 0}}</b>, Children <b>{{booking.children || 0}}</b></div>
                         <div class="px-2">Pickup from: <b>{{getLocationName(booking.from)}}</b></div>
                         <div class="px-2">Going to: <b>{{getLocationName(booking.to)}}</b></div>
@@ -94,25 +95,6 @@
             <div class="w-full max-w-3xl">
 
                 <form [formGroup]="bookingForm">
-
-                    <mat-form-field class="example-full-width">
-                        <input matInput placeholder="Search Contact" [formGroup]="selectedContact" [matAutocomplete]="auto"
-                          [formControl]="searchContactsCtrl" placeholder="Min 3 Characters Ex. Ant">
-                        <button *ngIf="selectedContact" matSuffix mat-icon-button aria-label="Clear" (click)="clearSelection()">
-                          <mat-icon>close</mat-icon>
-                        </button>
-                        <mat-autocomplete [panelWidth]="400" #auto="matAutocomplete" (optionSelected)="onSelected()"
-                          [displayWith]="displayWith">
-                          <mat-option *ngIf="isLoading" class="is-loading">Loading...</mat-option>
-                          <ng-container *ngIf="!isLoading">
-                            <mat-option *ngFor="let movie of filteredContacts" [value]="contact">
-                              <span><b>{{contact.name}}</b></span>
-                            </mat-option>
-                          </ng-container>
-                        </mat-autocomplete>
-                      </mat-form-field>
-
-
 
                     <div class="mt-4">
                         <mat-checkbox class="example-margin" [formControlName]="'roundTrip'"
